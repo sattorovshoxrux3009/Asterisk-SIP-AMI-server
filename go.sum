@@ -1,0 +1,4 @@
+github.com/heltonmarx/goami v1.0.0 h1:EZqmTNV/olreCq8zYyiKYIvAt4bHPPq4UzCud4vaxXM=
+github.com/heltonmarx/goami v1.0.0/go.mod h1:Cx1i+WSaGO8HvPPOaQ3qMxWLareJnksTxgj8cmChluc=
+gopkg.in/ini.v1 v1.67.0 h1:Dgnx+6+nfE+IfzjUEISNeydPJh9AXNNsWbGP9KzCsOA=
+gopkg.in/ini.v1 v1.67.0/go.mod h1:pNLf8WUiyNEtQjuu5G5vTm06TEv9tsIgeAvK8hOrP4k=
